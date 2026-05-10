@@ -1,0 +1,15 @@
+{
+  "name": "moroscrape_pro",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1",
+    "puppeteer": "^24.43.0",
+    "qrcode": "^1.5.4",
+    "socket.io": "^4.8.3",
+    "whatsapp-web.js": "^1.34.7"
+  }
+}
